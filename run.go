@@ -10,8 +10,8 @@ import (
 	"strings"
 
 	"github.com/asticode/go-astikit"
-	"github.com/asticode/go-astilectron"
-	astibundler "github.com/asticode/go-astilectron-bundler"
+	"github.com/minishdev/go-astilectron"
+	astibundler "github.com/minishdev/go-astilectron-bundler"
 )
 
 // Run runs the bootstrap
